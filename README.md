@@ -25,9 +25,9 @@ My journey in technology and entrepreneurship has sparked a strong interest in c
 
 ## 🕹️ Hands-On Labs & CTF Practice
 
-| Platform / Lab | Current Level / Progress | Focus Area |
-|----------------|------------------------|------------|
-| [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) | Level 26 | Linux commands, file permissions, basic scripting, SSH |
+| Platform / Lab | Current Level / Progress | Focus Area | Step by Step |
+|----------------|------------------------|------------|-----------------|
+| [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) | Level 27 | Linux commands, file permissions, basic scripting, SSH | [How to catch the flag](https://github.com/jhans-oscar/cybersecurity-labs/tree/main/Over-the-wire/Bandit) |
 | [Hack The Box](https://www.hackthebox.eu/) | Beginner labs | Web exploitation, CTF challenges, practical pentesting |
 | [Port Swigger](https://portswigger.net/) | SQL Injection Labs | In-band, Inferential, Out-of-Band SQL Injections |
 
