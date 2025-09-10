@@ -15,11 +15,8 @@ My journey in technology and entrepreneurship has sparked a strong interest in c
 
 ## 💻 Skills & Projects
 
-| Skill | Associated Project |
-|-------|------------------|
-| Secure Coding Practices | [Vulnerable App Security Review](https://github.com/) |
-| Penetration Testing & SQL Injection | [Pen Testing Lab](https://github.com/) |
-| Incident Response & Log Analysis | [SOC Automation Lab](https://github.com/) |
+### Reports
+- [Database Server Vulnerability Assessment](vulnerability-assessments/db_server_risk_report.md)
 
 </a>
 
