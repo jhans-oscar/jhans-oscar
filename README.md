@@ -16,8 +16,7 @@ My journey in technology and entrepreneurship has sparked a strong interest in c
 ## 💻 Skills & Projects
 
 ### Reports
-- [Database Server Vulnerability Assessment]([vulnerability-assessments/db_server_risk_report.md](https://github.com/jhans-oscar/cybersecurity-labs/tree/main/Security-Reports))
-
+- [Database Server Vulnerability Assessment](https://github.com/jhans-oscar/cybersecurity-labs/blob/7fe16112f5c6d730a06c9fb4e2222213130ca5de/Security-Reports/Vulnerability%20assessment%20report.md)
 </a>
 
 ## 🕹️ Hands-On Labs & CTF Practice
@@ -30,7 +29,7 @@ My journey in technology and entrepreneurship has sparked a strong interest in c
 
 | Projects | Version | Focus Area | Knowledge Needed |
 |----------------|------------------------|------------|-----------------|
-| [Port Scanner](https://github.com/jhans-oscar/cybersecurity-labs/my_port_scanner) | Version 0.1 | Python for Cybersecurity | Python, TCP/UDP, SYN/Connect scans |
+| [Port Scanner](https://github.com/jhans-oscar/cybersecurity-labs/tree/7fe16112f5c6d730a06c9fb4e2222213130ca5de/my_port_scanner) | Version 0.1 | Python for Cybersecurity | Python, TCP/UDP, SYN/Connect scans |
 
 ## 🛠️ Tools & Technologies
 
