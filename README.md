@@ -28,6 +28,10 @@ My journey in technology and entrepreneurship has sparked a strong interest in c
 | [Hack The Box](https://www.hackthebox.eu/) | Beginner labs | Web exploitation, CTF challenges, practical pentesting |
 | [Port Swigger](https://portswigger.net/) | SQL Injection Labs | In-band, Inferential, Out-of-Band SQL Injections |
 
+| Projects | Version | Focus Area | Knowledge Needed |
+|----------------|------------------------|------------|-----------------|
+| [Port Scanner](my_port_scanner) | Version 0.1 | Python for Cybersecurity | Python, TCP/UDP, SYN/Connect scans |
+
 ## 🛠️ Tools & Technologies
 
 ### 🔐 Cybersecurity Tools
@@ -44,7 +48,7 @@ My journey in technology and entrepreneurship has sparked a strong interest in c
 |----------|----------|-------------|------------------|
 | [Bash](https://www.gnu.org/software/bash/) | Shell scripting | Intermediate | Learning / In Progress |
 | [SQL](https://www.mysql.com/) | Database querying | Intermediate | Learning / In Progress |
-| [Python](https://www.python.org/) | Scripting and automation | No started yet | Learning / In Progress |
+| [Python](https://www.python.org/) | Scripting and automation | Biginner | Learning / In Progress |
 
 ### 🔗 References & Learning Platforms
 
