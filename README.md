@@ -18,8 +18,8 @@ I build practical, elegant software at the crossroads of programming, cybersecur
 ## Featured Projects
 | Project | Description | Highlights | Link |
 | --- | --- | --- | --- |
-| GitAct | GitHub activity feed CLI that presents events in a clean, readable layout. | Python · GitHub API · CLI UX | [Repository](https://github.com/jhansoscar/GitAct) |
-| Listopia | CLI Task Tracker | Python, CLI UX | [Repository](https://github.com/jhansoscar/listopia) |
+| GitAct | GitHub activity feed CLI that presents events in a clean, readable layout. | Python · GitHub API · CLI UX | [Repository](https://github.com/jhans-oscar/gitact) |
+| Listopia | CLI Task Tracker | Python, CLI UX | [Repository](https://github.com/jhans-oscar/listopia) |
 
 ## What I'm Exploring Now
 - Smarter automation combining multiple APIs.
