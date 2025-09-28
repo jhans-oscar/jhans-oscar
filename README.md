@@ -1,4 +1,4 @@
-## Hi there, I'm Jhans Oscar.
+# Jhans Oscar – Entrepreneur, Developer & Multilingual Problem Solver
 
 <a href="https://www.linkedin.com/in/jhans-oscar-alonso-gonzalez-8175bb344">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -7,54 +7,30 @@
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-## 🌍 About Me
-I'm a Cuban entrepreneur living in Phuket, Thailand. I speak Spanish, English, and Russian fluently. I have a strong interest in tech, cybersecurity, and business development. Currently reconnecting with my spiritual path as a practicing Catholic.
 
-## 🎯 Objective
-My journey in technology and entrepreneurship has sparked a strong interest in cybersecurity. I am currently building my skills through the **Google Cybersecurity Certificate**, with plans to pursue **Security+, CEH, AWS Solutions Architect**, and eventually **CISSP, DevSecOps, and OSCP**. My goal is to grow as a cybersecurity professional, contributing to security operations, DevSecOps projects, and innovative security solutions.
+I build practical, elegant software at the crossroads of programming, cybersecurity, and automation. Alongside my work as an entrepreneur and hands-on developer, I stay sharp through Jiu Jitsu and collaborate across cultures in Spanish, English, and Russian.
 
-## 💻 Skills & Projects
+## Quick Facts
+- Focused on Python, API integrations, and automation workflows.
+- Passionate about transparent, efficient, and innovative solutions.
+- Always learning by building and shipping real-world projects.
 
-### Reports
-- [Database Server Vulnerability Assessment](https://github.com/jhans-oscar/cybersecurity-labs/blob/7fe16112f5c6d730a06c9fb4e2222213130ca5de/Security-Reports/Vulnerability%20assessment%20report.md)
-</a>
+## Featured Projects
+| Project | Description | Highlights | Link |
+| --- | --- | --- | --- |
+| GitAct | GitHub activity feed CLI that presents events in a clean, readable layout. | Python · GitHub API · CLI UX | [Repository](https://github.com/jhansoscar/GitAct) |
+| Listopia | CLI Task Tracker | Python, CLI UX | [Repository](https://github.com/jhansoscar/listopia) |
 
-## 🕹️ Hands-On Labs & CTF Practice
+## What I'm Exploring Now
+- Smarter automation combining multiple APIs.
+- Security-conscious tooling that simplifies daily workflows.
+- Ways to turn complex problems into approachable, maintainable codebases.
 
-| Platform / Lab | Current Level / Progress | Focus Area | Step by Step |
-|----------------|------------------------|------------|-----------------|
-| [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) | Level 27 | Linux commands, file permissions, basic scripting, SSH | [How to catch the flag](https://github.com/jhans-oscar/cybersecurity-labs/tree/main/Over-the-wire/Bandit) |
-| [Hack The Box](https://www.hackthebox.eu/) | Beginner labs | Web exploitation, CTF challenges, practical pentesting |
-| [Port Swigger](https://portswigger.net/) | SQL Injection Labs | In-band, Inferential, Out-of-Band SQL Injections |
+## Tech Stack & Interests
+- Languages: Python, Bash, SQL
+- Tools: Requests, FastAPI, Flask, GitHub Actions, Burp Suite, WireShark
+- Interests: Cybersecurity, automation pipelines, CLI tools
 
-| Projects | Version | Focus Area | Knowledge Needed |
-|----------------|------------------------|------------|-----------------|
-| [Port Scanner](https://github.com/jhans-oscar/cybersecurity-labs/tree/7fe16112f5c6d730a06c9fb4e2222213130ca5de/my_port_scanner) | Version 0.1 | Python for Cybersecurity | Python, TCP/UDP, SYN/Connect scans |
-
-## 🛠️ Tools & Technologies
-
-### 🔐 Cybersecurity Tools
-
-| Tool | Function | Skill Level | Associated Project |
-|------|----------|-------------|------------------|
-| [Wireshark](https://www.wireshark.org/) | Network protocol analyzer | Beginner | Learning / In Progress |
-| [Nmap](https://nmap.org/) | Network discovery and vulnerability scanning | Intermediate | Learning / In Progress |
-| [Burp Suite](https://portswigger.net/burp) | Web vulnerability scanner | Beginner | Learning / In Progress |
-
-### 🧠 Scripting & Programming Languages
-
-| Language | Function | Skill Level | Associated Project |
-|----------|----------|-------------|------------------|
-| [Bash](https://www.gnu.org/software/bash/) | Shell scripting | Intermediate | Learning / In Progress |
-| [SQL](https://www.mysql.com/) | Database querying | Intermediate | Learning / In Progress |
-| [Python](https://www.python.org/) | Scripting and automation | Biginner | Learning / In Progress |
-
-### 🔗 References & Learning Platforms
-
-- [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) – Linux command-line challenges
-- [TryHackMe](https://tryhackme.com/) – Guided cybersecurity learning
-- [Hack The Box](https://www.hackthebox.eu/) – Capture The Flag challenges
-- [VulnHub](https://www.vulnhub.com/) – Vulnerable machines for practice
-- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) – Web application security training
-- [Port Swigger](https://portswigger.net/) - Web application Pentesting Training
-
+## Connect
+- GitHub: [@jhans-oscar](https://github.com/jhans-oscar)
+- Open to collaborations, thoughtful feedback, and conversations about impactful software.
