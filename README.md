@@ -14,22 +14,23 @@ I build practical, elegant software at the crossroads of programming, cybersecur
 - Focused on Python, API integrations, and automation workflows.
 - Passionate about transparent, efficient, and innovative solutions.
 - Always learning by building and shipping real-world projects.
+- Smart integration of AI to boost learning and workflows
 
 ## Featured Projects
 | Project | Description | Highlights | Link |
 | --- | --- | --- | --- |
+| Verbum ⭐ |A tool to explore Scripture quickly and beautifully | API, FASTAPI, OOP | [Repository](https://github.com/jhans-oscar/verbum) |
 | GitAct | GitHub activity feed CLI that presents events in a clean, readable layout. | Python · GitHub API · CLI UX | [Repository](https://github.com/jhans-oscar/gitact) |
 | Listopia | CLI Task Tracker | Python, CLI UX | [Repository](https://github.com/jhans-oscar/listopia) |
 
+
 ## What I'm Exploring Now
-- Smarter automation combining multiple APIs.
-- Security-conscious tooling that simplifies daily workflows.
-- Ways to turn complex problems into approachable, maintainable codebases.
+- Founding a startup focused on building a new way to index human knowledge.
 
 ## Tech Stack & Interests
 - Languages: Python, Bash, SQL
-- Tools: Requests, FastAPI, Flask, GitHub Actions, Burp Suite, WireShark
-- Interests: Cybersecurity, automation pipelines, CLI tools
+- Tools: Requests, FastAPI, GitHub Actions, Burp Suite, WireShark
+- Interests: Cybersecurity, automation pipelines, CLI tools, OOP
 
 ## Connect
 - GitHub: [@jhans-oscar](https://github.com/jhans-oscar)
